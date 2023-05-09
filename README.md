@@ -20,6 +20,7 @@
 <h2>👀 Screenshots</h2>
 <img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/clock.png" alt="clock">
 <img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/Stopwatch.png" alt="stopwatch">
-<img src="" alt="timer">
+<img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/timer.png" alt="timer">
+
 <h2>✍ Author</h2>
    <a href="https://github.com/saiteemara">.saiteemara</a>

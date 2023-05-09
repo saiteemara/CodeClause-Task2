@@ -18,8 +18,11 @@
   <li>JS</li>
 </ul>
 <h2>👀 Screenshots</h2>
+<p>Clock</p>
 <img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/clock.png" alt="clock">
+<p>Stopwatch</p>
 <img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/Stopwatch.png" alt="stopwatch">
+<p>Timer</p>
 <img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/timer.png" alt="timer">
 
 <h2>✍ Author</h2>

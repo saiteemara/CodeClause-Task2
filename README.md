@@ -17,5 +17,7 @@
   <li>CSS</li>
   <li>JS</li>
 </ul>
+<h2>👀 Screenshots</h2>
+<img src="https://github.com/saiteemara/CodeClause-Task2/blob/main/CodeClause%20_Timer%20and%20stopwatch/assets/Stopwatch.png" alt="Girl in a jacket">
 <h2>✍ Author</h2>
    <a href="https://github.com/saiteemara">.saiteemara</a>

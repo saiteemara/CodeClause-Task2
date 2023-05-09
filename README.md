@@ -17,6 +17,5 @@
   <li>CSS</li>
   <li>JS</li>
 </ul>
-
 <h2>✍ Author</h2>
    <a href="https://github.com/saiteemara">.saiteemara</a>

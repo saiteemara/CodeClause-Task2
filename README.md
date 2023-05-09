@@ -1,3 +1,22 @@
 # CodeClause_Web-Development
 <h2>📖 Task 2 - Stopwatch and Timer</h2>
-<p></p>
+<p>Stopwatch project, designed as a part of internship under of Web Development and Designing,</br>
+  is a dynamic website which can be used to perform operations like:</p>
+<ul>
+  <li>Start</li>
+  <li>Stop</li>
+  <li>Reset</li>
+  <li>Back</li>
+</ul>
+
+<p>A Countdown Timer is also being made as a part of this project.</p>
+<h2>📓 Tools used </h2>
+<p>IDE : VS Code</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+</ul>
+
+<h2>✍ Author</h2>
+   
